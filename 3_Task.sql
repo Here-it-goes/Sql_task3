@@ -1,0 +1,1 @@
+copy Employee_details from 'E:/POST_SQL_task/Employee_Details.csv' delimiter ',' csv header;
